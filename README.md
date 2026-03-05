@@ -145,7 +145,9 @@ Retail-Sales-Analysis
 
 * Build a fully automated data pipeline
 
+
 **👤 Author**
+
 Bishwaraj Chakraborty
 
 Aspiring Data Analyst with skills in Python, SQL, and Power BI, focused on transforming data into meaningful business insights.
